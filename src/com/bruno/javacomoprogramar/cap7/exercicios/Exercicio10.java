@@ -22,6 +22,6 @@ public class Exercicio10 {
     }
 
     public static void contabilizarSalario(int[] contador, int valorVendido) {
-        
+
     }
 }
