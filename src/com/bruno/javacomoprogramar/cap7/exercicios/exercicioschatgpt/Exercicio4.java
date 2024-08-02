@@ -29,7 +29,7 @@ public class Exercicio4 {
         for (int i = 0; i < arrayOriginal.length; i++) {
             System.out.print(arrayOriginal[i] + " ");
         }
-        
+
         System.out.println();
         System.out.println("Array inverso: ");
         for (int i = 0; i < arrayInverso.length; i++) {
