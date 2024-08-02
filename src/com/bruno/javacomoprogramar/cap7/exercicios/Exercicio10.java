@@ -8,7 +8,7 @@ public class Exercicio10 {
         System.out.print("Digite o número de vendedores: ");
         int quantVendedores = input.nextInt();
 
-        int[] arrayContador = new int[9];
+        int[] arrayContador = new int[9]; // contabilizar quantos vendedores em cada faixa de salário
 
         for (int i = 0; i < quantVendedores; i++) {
             System.out.print("Digite o valor vendido para o vendedor " + (i+1) + ": ");
