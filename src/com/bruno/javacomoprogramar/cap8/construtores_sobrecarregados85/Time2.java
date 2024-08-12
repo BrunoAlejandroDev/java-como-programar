@@ -26,7 +26,7 @@ public class Time2 {
 
     public Time2 (Time2 time) // invoca o construtor de três argumentos utilizando um objeto Time2
     {
-        this();
+        this(time.getHour(), time.getMinute(), time.getSecond());
     }
 
     // CONSTRUTOR PADRÃO
