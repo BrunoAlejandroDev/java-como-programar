@@ -1,4 +1,4 @@
-package com.bruno.javacomoprogramar.cap8.tiposenum89;
+package com.bruno.javacomoprogramar.cap8.Itiposenum;
 
 import java.util.EnumSet;
 

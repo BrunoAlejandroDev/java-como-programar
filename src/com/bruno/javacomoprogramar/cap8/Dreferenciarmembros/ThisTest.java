@@ -1,4 +1,4 @@
-package com.bruno.javacomoprogramar.cap8.referenciar_membros84;
+package com.bruno.javacomoprogramar.cap8.Dreferenciarmembros;
 
 public class ThisTest {
     public static void main(String[] args)

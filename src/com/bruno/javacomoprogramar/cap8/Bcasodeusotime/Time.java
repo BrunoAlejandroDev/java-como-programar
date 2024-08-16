@@ -1,4 +1,4 @@
-package com.bruno.javacomoprogramar.cap8.caso_de_uso_time82;
+package com.bruno.javacomoprogramar.cap8.Bcasodeusotime;
 
 public class Time {
 

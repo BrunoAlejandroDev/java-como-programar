@@ -1,4 +1,4 @@
-package com.bruno.javacomoprogramar.cap8.composicao88;
+package com.bruno.javacomoprogramar.cap8.Hcomposicao;
 
 public class EmployeeTest {
     public static void main(String[] args) {
